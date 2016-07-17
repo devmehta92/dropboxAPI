@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Bad+Script);
+body{
+	
+	background-image: url("http://i.stack.imgur.com/vAGZp.jpg");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	overflow:auto;
+	font-family: 'Bad Script', cursive;
+  	color: white;
+}
+#output1{
+    height:25%;
+    width:100%;
+    float:left;
+	overflow: hidden;
+	border-width: 0px 0px 2px 0px;
+	border-style: double;
+}
+
+#output2{
+    height:75%;
+    width:55%;
+    float:left;
+	overflow: auto;
+	border-width:0px 2px 0px 0px;
+	border-style: double;
+}
+#output3{
+	float: right;
+    height:69%;
+    width:30%;
+	overflow: auto;
+}
+a{
+	color:#f44336;
+}
+p{
+	padding-right: 20%;
+}
